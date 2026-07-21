@@ -20,7 +20,7 @@ The dashboard allows users to:
 
 ## 🚀 Live Demo
 
-
+https://medical-insurance-interactive-dashboard.streamlit.app/
 
 ---
 
@@ -203,8 +203,6 @@ streamlit run app.py
 B.Tech Computer Science Engineering
 
 Summer Internship Project – 2026
-
-GitHub: https://github.com/zaarakhan-dev
 
 ---
 
