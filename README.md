@@ -20,11 +20,7 @@ The dashboard allows users to:
 
 ## 🚀 Live Demo
 
-👉 **Dashboard:** *(Add your Streamlit link here after deployment)*
 
-Example:
-
-https://medical-insurance-dashboard.streamlit.app
 
 ---
 
@@ -147,7 +143,7 @@ Medical_Insurance_Dashboard/
 ├── insurance.csv
 ├── requirements.txt
 ├── README.md
-│
+│__ .gitignore
 └── images/
     ├── home_page.png
     ├── insurance_distribution.png
@@ -167,13 +163,13 @@ Medical_Insurance_Dashboard/
 Clone the repository
 
 ```bash
-git clone https://github.com/zaarakhan-dev/Medical-Insurance-Dashboard.git
+git clone https://github.com/zaarakhan-dev/Medical-Insurance-Interactive-Dashboard.git
 ```
 
 Move into the project directory
 
 ```bash
-cd Medical-Insurance-Dashboard
+cd Medical-Insurance-Interactive-Dashboard
 ```
 
 Install dependencies
